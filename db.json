@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Study fastapi",
+        "desc": "learn CRUD",
+        "isComplete": false,
+        "id": 1
+    },
+    {
+        "title": "Study fastapi",
+        "desc": "learn CRUD",
+        "isComplete": false,
+        "id": 2
+    },
+    {
+        "title": "todo",
+        "desc": "learn crud",
+        "isComplete": false,
+        "id": 3
+    }
+]
